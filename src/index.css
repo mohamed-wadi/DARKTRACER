@@ -49,40 +49,40 @@ code {
 }
 
 @media (min-width: 768px) {
-  .md\\:grid-cols-2 {
+  .md\:grid-cols-2 {
     grid-template-columns: repeat(2, minmax(0, 1fr));
   }
 }
 
-.bg-blue-900\\/30 {
+.bg-blue-900\/30 {
   background-color: rgba(30, 58, 138, 0.3);
 }
 
-.bg-purple-900\\/30 {
+.bg-purple-900\/30 {
   background-color: rgba(88, 28, 135, 0.3);
 }
 
-.bg-green-900\\/30 {
+.bg-green-900\/30 {
   background-color: rgba(6, 78, 59, 0.3);
 }
 
-.bg-indigo-900\\/30 {
+.bg-indigo-900\/30 {
   background-color: rgba(49, 46, 129, 0.3);
 }
 
-.bg-cyan-900\\/30 {
+.bg-cyan-900\/30 {
   background-color: rgba(22, 78, 99, 0.3);
 }
 
-.bg-red-900\\/30 {
+.bg-red-900\/30 {
   background-color: rgba(127, 29, 29, 0.3);
 }
 
-.bg-teal-900\\/30 {
+.bg-teal-900\/30 {
   background-color: rgba(19, 78, 74, 0.3);
 }
 
-.bg-orange-900\\/30 {
+.bg-orange-900\/30 {
   background-color: rgba(124, 45, 18, 0.3);
 }
 
@@ -103,16 +103,16 @@ code {
   --tw-gradient-to: #0f172a;
 }
 
-.from-blue-900\\/40 {
+.from-blue-900\/40 {
   --tw-gradient-from: rgba(30, 58, 138, 0.4);
   --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to, rgba(30, 58, 138, 0));
 }
 
-.to-purple-900\\/40 {
+.to-purple-900\/40 {
   --tw-gradient-to: rgba(88, 28, 135, 0.4);
 }
 
-.bg-white\\/10 {
+.bg-white\/10 {
   background-color: rgba(255, 255, 255, 0.1);
 }
 
@@ -136,7 +136,7 @@ code {
   min-height: 100vh;
 }
 
-.min-h-\\[500px\\] {
+.min-h-\[500px\] {
   min-height: 500px;
 }
 
@@ -206,7 +206,7 @@ code {
   color: #94a3b8;
 }
 
-.border-purple-500\\/30 {
+.border-purple-500\/30 {
   border-color: rgba(168, 85, 247, 0.3);
 }
 
@@ -218,7 +218,7 @@ code {
   border-color: #22c55e;
 }
 
-.border-yellow-500\\/30 {
+.border-yellow-500\/30 {
   border-color: rgba(234, 179, 8, 0.3);
 }
 
@@ -318,7 +318,7 @@ code {
   background-color: #1d4ed8;
 }
 
-.bg-slate-600, .bg-slate-500, .bg-slate-800\\/50 {
+.bg-slate-600, .bg-slate-500, .bg-slate-800\/50 {
   background-color: #475569;
   background-color: #64748b;
   background-color: rgba(30, 41, 59, 0.5);
@@ -328,36 +328,36 @@ code {
   background-color: #0891b2;
 }
 
-.bg-green-800\\/20 {
+.bg-green-800\/20 {
   background-color: rgba(22, 101, 52, 0.2);
 }
 
-.bg-indigo-800\\/20, .bg-indigo-700\\/20 {
+.bg-indigo-800\/20, .bg-indigo-700\/20 {
   background-color: rgba(55, 48, 163, 0.2);
   background-color: rgba(67, 56, 202, 0.2);
 }
 
-.bg-cyan-800\\/20 {
+.bg-cyan-800\/20 {
   background-color: rgba(21, 94, 117, 0.2);
 }
 
-.bg-red-800\\/20 {
+.bg-red-800\/20 {
   background-color: rgba(153, 27, 27, 0.2);
 }
 
-.bg-teal-800\\/20 {
+.bg-teal-800\/20 {
   background-color: rgba(17, 94, 89, 0.2);
 }
 
-.bg-orange-800\\/20 {
+.bg-orange-800\/20 {
   background-color: rgba(154, 52, 18, 0.2);
 }
 
-.bg-yellow-900\\/20 {
+.bg-yellow-900\/20 {
   background-color: rgba(113, 63, 18, 0.2);
 }
 
-.bg-purple-800\\/20 {
+.bg-purple-800\/20 {
   background-color: rgba(107, 33, 168, 0.2);
 }
 
@@ -385,18 +385,18 @@ code {
   transition-duration: 150ms;
 }
 
-.hover\\:bg-blue-700:hover {
+.hover\:bg-blue-700:hover {
   background-color: #1d4ed8;
 }
 
-.hover\\:bg-slate-500:hover {
+.hover\:bg-slate-500:hover {
   background-color: #64748b;
 }
 
-.disabled\\:opacity-50:disabled {
+.disabled\:opacity-50:disabled {
   opacity: 0.5;
 }
 
-.disabled\\:cursor-not-allowed:disabled {
+.disabled\:cursor-not-allowed:disabled {
   cursor: not-allowed;
 }
